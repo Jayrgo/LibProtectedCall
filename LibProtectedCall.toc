@@ -1,0 +1,6 @@
+# Interface: 
+## Title: LibProtectedCall |cffbebebeby Jayrgo|r
+## Author: Jayrgo
+## Version: 1.0.0
+
+LibProtectedCall.lua
